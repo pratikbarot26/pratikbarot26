@@ -10,21 +10,21 @@ Data Engineer with 2.5+ years of hands-on experience in building scalable ETL pi
 ## 🎓 Education  
 
 📍 **Syracuse University, New York, USA**  
--🎓 **MS in Information Systems** | **Certificate of Advanced Study in Data Science** _[2023-2025]_  
--🔹 Focus Areas: **Data Science, Cloud Computing, Digital Transformation**  
+🎓 **MS in Information Systems** | **Certificate of Advanced Study in Data Science** _[2023-2025]_  
+🔹 Focus Areas: **Data Science, Cloud Computing, Digital Transformation**  
 
-📍 **University of Mumbai, Mumbai, India** 
--🎓 **BE in Electronics Engineering** _[2017-2021]_
--🔹 Focus Areas: **Neural Networks, Management Information Systems**
+📍 **University of Mumbai, Mumbai, India**  
+🎓 **BE in Electronics Engineering** _[2017-2021]_  
+🔹 Focus Areas: **Neural Networks, Management Information Systems**
 
 ---
 
 ## 📍 Career Timeline  
 
--🔹 **Data Curator** – SIDEARM Sports _[May 2024 - Aug 2024]_  
--🔹 **Data Engineer** – LTIMindtree _[Sep 2021 - Sep 2021]_
--🔹 **Graduate Engineer Trainee** – L&T Infotech _[Jun 2021 - Sep 2021]_
--🔹 **Technology Intern** – Unitop Aquacare _[Jun 2019 - Jul 2019]_
+🔹 **Data Curator** – SIDEARM Sports _[May 2024 - Aug 2024]_  
+🔹 **Data Engineer** – LTIMindtree _[Sep 2021 - Sep 2021]_  
+🔹 **Graduate Engineer Trainee** – L&T Infotech _[Jun 2021 - Sep 2021]_  
+🔹 **Technology Intern** – Unitop Aquacare _[Jun 2019 - Jul 2019]_
 
 ---
 

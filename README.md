@@ -38,7 +38,7 @@ Data Engineer with 2.5+ years of hands-on experience in building scalable ETL pi
   <img src="https://img.shields.io/badge/Shell-29B5E8?style=for-the-badge&logo=shell&logoColor=white" />
 </p>
 
-### **⚙️ Data Engineering & Cloud*  
+### **⚙️ Data Engineering & Cloud**  
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
